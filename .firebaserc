@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "react-ff86f"
+  },
+  "targets": {
+    "react-ff86f": {
+      "hosting": {
+        "admin": [
+          "admin-5c6fc"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
